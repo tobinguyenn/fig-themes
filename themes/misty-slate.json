@@ -1,0 +1,22 @@
+{
+  "$schema": "../schema.json",
+  "author": {
+    "name": "Tobi Nguyen",
+    "twitter": "@tobinguyennn",
+    "github": "tobinguyenn"
+  },
+  "version": "1.0",
+  "theme": {
+    "textColor": "#99A0B9",
+    "backgroundColor": "#E4DEDC",
+    "matchBackgroundColor": "#6272a4",
+    "selection": {
+      "textColor": "#E4DEDC",
+      "backgroundColor": "#8AA6A1"
+    },
+    "description": {
+      "textColor": "#99A0B9",
+      "borderColor": "#E4DEDC"
+    }
+  }
+}
